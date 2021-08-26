@@ -8,3 +8,6 @@ pip install django-cors-headers
 Info: 
 Strict Mode 
 StrictMode is a tool for highlighting potential problems in an application. 
+
+Reference: 
+https://www.smashingmagazine.com/2020/06/rest-api-react-fetch-axios/
